@@ -17,7 +17,7 @@
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg">
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/rails.svg">
-  <img height="50" src="   https://github.com/get-icon/geticon/blob/master/icons/wordpress-icon.svg">
+  <img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/wordpress-icon.svg">
 </div>
 
 
