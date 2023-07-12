@@ -7,6 +7,7 @@
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg">
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/figma.svg">
+  <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/icons/tailwindcss-icon.svg">  
 <!--   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg"> -->
 
 </div>
@@ -39,4 +40,5 @@
 <div style="display:flex">
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/google-play-icon.svg">
   <img height="50" src="https://github.com/tomchen/stack-icons/blob/master/logos/apple-app-store.svg">
+  <img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/unity.svg">
 </div>
